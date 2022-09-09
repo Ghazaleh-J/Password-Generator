@@ -25,5 +25,8 @@ With  the starter code on hand, in order to generate random password, I've writt
 * When the password is generated
 * The password is either displayed in an alert or written to the page
 
+## Link
+[Deployed Page](https://ghazaleh-j.github.io/Password-Generator/)
+
 ## Application Preview
 ![alt text](/SitePreview.png)
